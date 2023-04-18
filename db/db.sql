@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS sorter;
+CREATE DATABASE sorter;
+USE sorter;
