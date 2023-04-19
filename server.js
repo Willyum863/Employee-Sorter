@@ -64,4 +64,5 @@ const start = () => {
       });
   }
   
+  start();
  
